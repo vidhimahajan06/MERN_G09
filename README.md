@@ -1,2 +1,2 @@
-# MERN_G06
-Repositary for g6 batch
+# MERN_G09
+Repositary for g9 batch
